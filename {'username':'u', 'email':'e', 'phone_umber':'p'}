@@ -1,8 +1,0 @@
-HTTP/1.1 200 OK
-Server: nginx/1.13.3
-Content-Type: application/json
-Transfer-Encoding: chunked
-Connection: keep-alive
-Cache-Control: no-cache, private
-Date: Sun, 05 Nov 2017 14:43:32 GMT
-
