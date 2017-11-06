@@ -1,4 +1,4 @@
-#SETUP
+## SETUP
 
 * composer update
 * copy or rename .env.example to .env
